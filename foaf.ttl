@@ -25,16 +25,16 @@
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Petar</foaf:name>
-<foaf:mbox_sha1sum>96f942d3f3dceb766fd68d9b02c29e4b405729d2</foaf:mbox_sha1sum>
+<foaf:mbox_sha1sum>88cad31543d3c87959b96bf45963eeb2d9ccda5a</foaf:mbox_sha1sum>
 <rdfs:seeAlso rdf:resource="https://github.com/petarkostadinovski"/></foaf:Person></foaf:knows>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Mile</foaf:name>
-<foaf:mbox_sha1sum>a8163660351fd845de3b9c32009495c99abbcb7b</foaf:mbox_sha1sum>
+<foaf:mbox_sha1sum>6ada0a4a3fab7b5a7ef764b01d391bc531c716df</foaf:mbox_sha1sum>
 <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/K-15"/></foaf:Person></foaf:knows>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Rafael</foaf:name>
-<foaf:mbox_sha1sum>6bee4f54fdc4ace44aa1e0e1cb38c5f0cfc4678e</foaf:mbox_sha1sum>
+<foaf:mbox_sha1sum>36439d04362a3fc4f7fd4ed34b8d3eaf84a67f9e</foaf:mbox_sha1sum>
 <rdfs:seeAlso rdf:resource="https://github.com/Ristovski"/></foaf:Person></foaf:knows></foaf:Person>
 </rdf:RDF>
