@@ -1,0 +1,40 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>David Gakovski</foaf:name>
+<foaf:title>Mr</foaf:title>
+<foaf:givenname>David</foaf:givenname>
+<foaf:family_name>Gakovski</foaf:family_name>
+<foaf:nick>David</foaf:nick>
+<foaf:mbox_sha1sum>6d442ea5946d29ac8d1425a7d1b11f97e21d2fea</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="https://github.com/Gakovski"/>
+<foaf:depiction rdf:resource="https://forum.kajgana.com/data/attachments/124/124482-fc1ee658f7948ab272182ac6862ee974.jpg"/>
+<foaf:phone rdf:resource="tel:070-123-123"/>
+<foaf:workplaceHomepage rdf:resource="itlabs"/>
+<foaf:workInfoHomepage rdf:resource="DevOps"/>
+<foaf:schoolHomepage rdf:resource="SUGS "Vlado Tasevski" - Skopje"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Petar</foaf:name>
+<foaf:mbox_sha1sum>96f942d3f3dceb766fd68d9b02c29e4b405729d2</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://github.com/petarkostadinovski"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Mile</foaf:name>
+<foaf:mbox_sha1sum>a8163660351fd845de3b9c32009495c99abbcb7b</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/K-15"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Rafael</foaf:name>
+<foaf:mbox_sha1sum>6bee4f54fdc4ace44aa1e0e1cb38c5f0cfc4678e</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://github.com/Ristovski"/></foaf:Person></foaf:knows></foaf:Person>
+</rdf:RDF>
